@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FishAppAPI.Data;
+namespace FishingWebAppAPI.Data;
 
 public partial class WeatherDatum
 {
