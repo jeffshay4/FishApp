@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishApp", "FishApp\FishApp.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FishAppAPI", "FishAppAPI\FishAppAPI.csproj", "{35158E6D-7F35-4C61-9113-FA67D80969C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishAppAPI1", "FishAppAPI1\FishAppAPI1.csproj", "{AC33384D-EE54-4394-9503-EFB388D55AED}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{35158E6D-7F35-4C61-9113-FA67D80969C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35158E6D-7F35-4C61-9113-FA67D80969C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35158E6D-7F35-4C61-9113-FA67D80969C4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC33384D-EE54-4394-9503-EFB388D55AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC33384D-EE54-4394-9503-EFB388D55AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC33384D-EE54-4394-9503-EFB388D55AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC33384D-EE54-4394-9503-EFB388D55AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿using FishAppAPI.Data;
+using FishingWebAppAPI.Data;
 using Microsoft.EntityFrameworkCore;
 namespace FishAppAPI.Data
 {
@@ -14,6 +15,7 @@ namespace FishAppAPI.Data
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
         }
         public DbSet<ExtFishingLocation> ExtFishingLocation { get; set; }
+        public DbSet<ExtFishingNews> ExtFishingNews { get; set; }
         
     
     }
