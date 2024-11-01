@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using FishAppAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace FishingWebAppAPI.Data;

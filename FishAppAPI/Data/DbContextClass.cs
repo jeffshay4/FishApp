@@ -14,6 +14,7 @@ namespace FishAppAPI.Data
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
         }
         public DbSet<ExtFishingLocation> ExtFishingLocation { get; set; }
+        
     
     }
 }
